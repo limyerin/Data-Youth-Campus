@@ -4,13 +4,14 @@
 
 # 사용방법
 > 9팀_식중독_시계열(기온, 약물포함).ipynb는 google colab을 이용<br>
-> 코랩에서 ctrl + F9 를 눌러 모두실행 하시면 됩니다.
-> Jupyter Notebook으로 진행함
-«	가격데이터 + ARIMA.ipynb
-«	다변량 변수 예측.ipynb
-«	상관분석.ipynb
-«	습도데이터 + ARIMA.ipynb
-«	온도데이터 + ARIMA.ipynb
+> 코랩에서 ctrl + F9 를 눌러 모두실행 하시면 됩니다.<br>
+> Jupyter Notebook으로 진행함<br>
+  -	가격데이터 + ARIMA.ipynb<br>
+  - 다변량 변수 예측.ipynb<br>
+  - 상관분석.ipynb<br>
+  - 습도데이터 + ARIMA.ipynb<br>
+  - 온도데이터 + ARIMA.ipynb
+
 
 # 데이터 소개
 > 사용한 데이터들
