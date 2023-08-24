@@ -79,4 +79,3 @@ python
 jypyter notebook
 
 google colab
-![image](https://github.com/limyerin/Data-Youth-Campus/assets/91580889/7487a060-9dac-4cab-a068-b94cae32caa5)
