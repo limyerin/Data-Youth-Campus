@@ -41,31 +41,33 @@
 
 ## 결과
 1. 상관분석
-1-1. 온도-습도 상관분석
-![온도습도상관분석](https://github.com/limyerin/Data-Youth-Campus/assets/91580889/f133866d-d4fd-4ed6-824d-b558b0aedd33)
-1-2. 온도-습도-약물금액 상관분석
-![온도습도약물금액상관분석](https://github.com/limyerin/Data-Youth-Campus/assets/91580889/767fee6a-2b2f-48a7-a2a2-771ec871e63b)
-1-3. 온도-습도-환자수 상관분석
-![온도습도환자수상관분석](https://github.com/limyerin/Data-Youth-Campus/assets/91580889/78c5fe9e-102d-4e3d-9e71-fb704ef7cb3e)
+   1-1. 온도-습도 상관분석
+   ![온도습도상관분석](https://github.com/limyerin/Data-Youth-Campus/assets/91580889/f133866d-d4fd-4ed6-824d-b558b0aedd33)
+   
+   1-2. 온도-습도-약물금액 상관분석
+   ![온도습도약물금액상관분석](https://github.com/limyerin/Data-Youth-Campus/assets/91580889/767fee6a-2b2f-48a7-a2a2-771ec871e63b)
+   
+   1-3. 온도-습도-환자수 상관분석
+   ![온도습도환자수상관분석](https://github.com/limyerin/Data-Youth-Campus/assets/91580889/78c5fe9e-102d-4e3d-9e71-fb704ef7cb3e)
 
-2. 날씨 ARIMA 모델 적용
+3. 날씨 ARIMA 모델 적용
    ![날씨최저최고기온_아리마_결과](https://github.com/DanteKim07/Data_Youth_Camp/assets/101346639/1e7b455f-b52c-45ef-bf54-b359d8157cf9)
 
-3. 식중독 ARIMA 모델 적용 및 예측
+4. 식중독 ARIMA 모델 적용 및 예측
    3-1. 모델 적용 결과
    ![20_22식중독아리마](https://github.com/DanteKim07/Data_Youth_Camp/assets/101346639/02ff40e7-a7aa-49da-9d87-fd1694a80d6c)
 
    3-2. 미래 예측
    ![식중독_아리마_예측결과](https://github.com/DanteKim07/Data_Youth_Camp/assets/101346639/1b2439e5-b575-4b1a-87ee-23a5cfae22d0)
 
-4. 약물금액 ARIMA 모델 적용 및 예측
+5. 약물금액 ARIMA 모델 적용 및 예측
    4-1. 모델 적용 결과
    ![약물금액_예측_그래프(A05, T78)](https://github.com/DanteKim07/Data_Youth_Camp/assets/101346639/4c126792-c71b-4cc7-a200-19de417b59d0)
 
    4-2. 미래 예측
    ![약물금액_미래_예측그래프](https://github.com/DanteKim07/Data_Youth_Camp/assets/101346639/0e9f924d-1174-4c03-941f-02c9f0eb50c9)
 
-5. 다변량 변수 예측
+6. 다변량 변수 예측
    5.1 약물금액 다변량 변수 예측
 ![약물다변량변수예측](https://github.com/limyerin/Data-Youth-Campus/assets/91580889/77ad7cdf-d104-4fa0-b3aa-e2ab45a3404b)
 
